@@ -1,0 +1,323 @@
+{
+  "business": {
+    "name": "Dallas Plumbing Pros Service",
+    "shortName": "Dallas Plumbing Pros",
+    "tagline": "Your Trusted Dallas Plumber Since 1995",
+    "niche": "Plumber",
+    "phone": "(214) 272-2966",
+    "address": "123 Main Street, Dallas, TX 75201",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-5pm, Sun Emergency Only",
+    "ctaLabel": "Schedule Now"
+  },
+  "seo": {
+    "title": "Dallas Plumbing Pros | Expert Plumber in Dallas, TX | (214) 272-2966",
+    "description": "Dallas Plumbing Pros offers 24/7 emergency plumbing, water heater repair, drain cleaning & more. Trusted by Dallas homeowners for 25+ years. Call now!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Plumbing Pros Service",
+      "headline": "Expert Plumbing Services in Dallas, TX",
+      "subheadline": "Reliable, affordable, and professional plumbing solutions for your home or business. Available 24/7 for emergencies.",
+      "primaryCta": "Call (214) 272-2966",
+      "secondaryCta": "Get a Free Estimate"
+    },
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "5,000+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "4.9",
+        "label": "Star Rating"
+      },
+      {
+        "value": "30 min",
+        "label": "Average Response Time"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Emergency Service",
+        "title": "24/7 Emergency Plumbing in Dallas",
+        "body": "When a pipe bursts or your water heater fails, you need a plumber who answers the call day or night. Our team is on standby 24/7 to handle any emergency, big or small.",
+        "bullets": [
+          "Same-day service available",
+          "No overtime charges for emergencies",
+          "Fully stocked trucks for fast repairs"
+        ],
+        "reverse": false,
+        "cardLabel": "Emergency",
+        "cardTitle": "Rapid Response",
+        "cardBody": "We arrive within 30 minutes in most Dallas neighborhoods."
+      },
+      {
+        "eyebrow": "Quality Workmanship",
+        "title": "Licensed & Insured Plumbers",
+        "body": "Every plumber at Dallas Plumbing Pros is licensed, insured, and undergoes continuous training. We stand behind our work with a 100% satisfaction guarantee.",
+        "bullets": [
+          "Background-checked technicians",
+          "All work guaranteed in writing",
+          "Upfront pricing – no hidden fees"
+        ],
+        "reverse": true,
+        "cardLabel": "Guarantee",
+        "cardTitle": "Peace of Mind",
+        "cardBody": "If you're not happy, we'll make it right – no questions asked."
+      }
+    ],
+    "whyTitle": "Why Choose Dallas Plumbing Pros?",
+    "whyChooseUs": [
+      {
+        "title": "25+ Years of Local Experience",
+        "description": "We know Dallas plumbing inside and out. From historic homes to new construction, we've seen it all."
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "You'll know the cost before we start any work. No surprises, no hidden fees."
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "All our plumbers are fully licensed and insured for your protection."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We're not happy until you're happy. If something isn't right, we'll fix it at no extra cost."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Dallas Plumbing Pros saved us on a Sunday! Burst pipe at 2am – they were here by 3am and fixed it quickly. Fair price too.",
+        "author": "Sarah M.",
+        "role": "Homeowner in Dallas"
+      },
+      {
+        "quote": "We've used them for years. Always professional, on time, and the work is top-notch. Highly recommend!",
+        "author": "James T.",
+        "role": "Homeowner in Dallas"
+      },
+      {
+        "quote": "Replaced our old water heater with a new tankless model. The team was efficient and cleaned up afterward. Great experience.",
+        "author": "Linda R.",
+        "role": "Homeowner in Dallas"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Solve Your Plumbing Problem?",
+      "subheadline": "Call us now or schedule online for fast, reliable service.",
+      "primaryCta": "Call (214) 272-2966",
+      "secondaryCta": "Book Online"
+    }
+  },
+  "servicesPage": {
+    "intro": "From routine maintenance to emergency repairs, Dallas Plumbing Pros offers a full range of plumbing services for your home or business. Our experienced technicians use the latest tools and techniques to get the job done right the first time."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Emergency Plumbing",
+      "shortDescription": "24/7 emergency service for burst pipes, severe clogs, and more.",
+      "longDescription": "When a plumbing emergency strikes, you need a plumber who answers the call. Our team is available 24/7, including holidays, to handle any urgent issue. We'll arrive quickly, diagnose the problem, and provide a lasting solution.",
+      "benefits": [
+        "Rapid response – often within 30 minutes",
+        "No extra charge for after-hours service",
+        "Fully equipped trucks for on-the-spot repairs",
+        "Transparent pricing before work begins"
+      ],
+      "process": [
+        {
+          "title": "Call or Book Online",
+          "description": "Contact us anytime. Our dispatcher will ask a few questions to prepare the right equipment."
+        },
+        {
+          "title": "Rapid Arrival",
+          "description": "We'll be at your door within 30 minutes in most areas, ready to assess the situation."
+        },
+        {
+          "title": "Fast, Lasting Repair",
+          "description": "We diagnose the root cause and fix it efficiently, minimizing disruption to your home."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you respond to an emergency?",
+          "answer": "We aim to arrive within 30 minutes for most Dallas locations. Our trucks are always stocked with common parts."
+        },
+        {
+          "question": "Do you charge extra for emergency calls?",
+          "answer": "No. Our emergency rates are the same as our regular rates. You'll never pay a premium for after-hours service."
+        }
+      ],
+      "slug": "emergency-plumbing"
+    },
+    {
+      "icon": "02",
+      "title": "Water Heater Repair & Installation",
+      "shortDescription": "Expert water heater services – tank, tankless, and hybrid systems.",
+      "longDescription": "A reliable water heater is essential for comfort. Whether you need a quick repair or a full replacement, our plumbers can handle all makes and models. We'll help you choose the most efficient system for your home and install it correctly.",
+      "benefits": [
+        "Repairs for all brands (Rheem, Bradford White, etc.)",
+        "Tankless water heater installation",
+        "Energy-efficient options to lower bills",
+        "Warranty on parts and labor"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We test your water heater and identify the issue – from a faulty thermostat to a leaking tank."
+        },
+        {
+          "title": "Recommendation",
+          "description": "We explain your options, including repair vs. replacement, and provide a clear quote."
+        },
+        {
+          "title": "Installation or Repair",
+          "description": "Our team completes the work efficiently, ensuring your system is safe and running optimally."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a water heater installation take?",
+          "answer": "A standard tank replacement takes about 2-4 hours. Tankless installations may take longer depending on gas line and venting requirements."
+        },
+        {
+          "question": "What size water heater do I need?",
+          "answer": "We'll calculate based on your household size and usage patterns. Most homes need a 40-50 gallon tank or a tankless unit with adequate flow rate."
+        }
+      ],
+      "slug": "water-heater-repair-installation"
+    },
+    {
+      "icon": "03",
+      "title": "Drain Cleaning & Sewer Services",
+      "shortDescription": "Professional drain cleaning and sewer line repair in Dallas.",
+      "longDescription": "Slow drains and sewer backups are more than a nuisance – they can damage your home. Our advanced drain cleaning equipment clears blockages quickly, and we offer trenchless sewer repair to minimize disruption to your yard.",
+      "benefits": [
+        "Hydro-jetting for stubborn clogs",
+        "Camera inspection to find the exact problem",
+        "Trenchless sewer repair (no digging)",
+        "Preventative maintenance plans available"
+      ],
+      "process": [
+        {
+          "title": "Camera Inspection",
+          "description": "We run a camera down the drain to locate the blockage and assess pipe condition."
+        },
+        {
+          "title": "Cleaning or Repair",
+          "description": "We use hydro-jetting or augering to clear the line, or recommend trenchless repair if needed."
+        },
+        {
+          "title": "Final Inspection",
+          "description": "We re-inspect with the camera to confirm the line is clear and functioning properly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I have my drains cleaned?",
+          "answer": "We recommend a professional cleaning every 1-2 years to prevent major clogs. If you notice slow drains, call sooner."
+        },
+        {
+          "question": "What is trenchless sewer repair?",
+          "answer": "It's a method that repairs pipes without digging up your yard. We insert a liner or pipe bursting tool through existing access points."
+        }
+      ],
+      "slug": "drain-cleaning-sewer-services"
+    },
+    {
+      "icon": "04",
+      "title": "Fixture Installation & Repair",
+      "shortDescription": "Install and repair faucets, toilets, sinks, and more.",
+      "longDescription": "Upgrade your kitchen or bathroom with new fixtures, or get your existing ones working like new. Our plumbers handle everything from leaky faucets to toilet replacements, ensuring a perfect fit and leak-free operation.",
+      "benefits": [
+        "Wide selection of brands and styles",
+        "Precision installation for no drips or leaks",
+        "Toilet repair and replacement",
+        "Garbage disposal installation"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your needs, measure existing spaces, and recommend suitable fixtures."
+        },
+        {
+          "title": "Removal & Preparation",
+          "description": "We carefully remove old fixtures and prepare the plumbing connections."
+        },
+        {
+          "title": "Installation & Testing",
+          "description": "New fixtures are installed and tested for proper function and leaks."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install a faucet I bought online?",
+          "answer": "Yes, we can install any standard faucet. However, we recommend high-quality brands for longevity."
+        },
+        {
+          "question": "How much does it cost to replace a toilet?",
+          "answer": "Labor for a standard toilet replacement is typically $150-$250, plus the cost of the toilet. We'll provide a firm quote upfront."
+        }
+      ],
+      "slug": "fixture-installation-repair"
+    }
+  ],
+  "about": {
+    "headline": "Your Local Plumbing Experts Since 1995",
+    "mission": "To provide Dallas homeowners and businesses with reliable, honest, and affordable plumbing services – every time.",
+    "story": [
+      "Dallas Plumbing Pros was founded in 1995 by master plumber John Smith with a simple mission: deliver quality plumbing service with integrity. Starting with a single truck, John built a reputation for showing up on time, fixing the problem right, and charging fair prices. Over the years, we've grown to a team of 20+ licensed plumbers, but our core values remain the same.",
+      "Today, we serve thousands of satisfied customers across Dallas and surrounding areas. We invest in ongoing training, modern equipment, and customer service excellence. Whether it's a minor faucet repair or a major sewer line replacement, we treat every job with the same dedication. We're proud to be a trusted part of the Dallas community."
+    ],
+    "highlight": {
+      "stat": "4.9",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say, and we're transparent about pricing and work."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-grade materials and follow best practices for lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home with care, clean up after ourselves, and respect your time."
+      },
+      {
+        "title": "Community",
+        "description": "We support local charities and give back to the neighborhoods we serve."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Dallas Plumbing Pros",
+    "subheadline": "Call us or fill out the form for a free estimate. We're here to help!",
+    "primaryCta": "Call (214) 272-2966",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Addison",
+      "Garland",
+      "Mesquite"
+    ]
+  },
+  "social_proof": {
+    "rating": null,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Plumber",
+    "generated_by": "deepseek"
+  },
+  "phone_href": "tel:2142722966",
+  "current_year": 2026
+}
